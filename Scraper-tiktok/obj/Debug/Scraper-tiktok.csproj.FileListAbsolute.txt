@@ -1,0 +1,12 @@
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\obj\Debug\Scraper-tiktok.csprojAssemblyReference.cache
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\obj\Debug\Scraper_tiktok.Form1.resources
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\obj\Debug\Scraper_tiktok.Properties.Resources.resources
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\obj\Debug\Scraper-tiktok.csproj.GenerateResource.cache
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\bin\Debug\Scraper-tiktok.exe.config
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\bin\Debug\Scraper-tiktok.exe
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\bin\Debug\Newtonsoft.Json.xml
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\obj\Debug\Scraper-tiktok.csproj.Fody.CopyLocal.cache
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\obj\Debug\Scraper-tiktok.csproj.CopyComplete
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\obj\Debug\Scraper-tiktok.exe
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\bin\Debug\Scraper-tiktok.pdb
+D:\Workspace\Visual Studio 2019\Scraper-tiktok\Scraper-tiktok\obj\Debug\Scraper-tiktok.pdb
